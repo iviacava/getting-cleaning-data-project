@@ -8,7 +8,8 @@ The dataset being used is: [Human Activity Recognition Using Smartphones](http:/
 
 ## Files
 
-The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
+The files include:
+
 `CodeBook.md` describes the variables, the data, and any transformations or work that was performed to clean up the data.
-`run_analysis.R` contains all the code to perform the analyses described in the 5 steps. 
-The output of the 5th step is called `avgs_data.txt`, and uploaded in the course project's form.
+`run_analysis.R` contains the source code in R. 
+`avgs_data.txt` the final results.
